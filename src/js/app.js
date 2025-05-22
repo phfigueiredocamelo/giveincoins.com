@@ -13,7 +13,7 @@ import { about } from './components/about.js';
 export function renderApp() {
   const app = document.getElementById('app');
   const path = window.location.pathname;
-
+  console.log(path);
   // Always render header
   app.innerHTML = header();
   

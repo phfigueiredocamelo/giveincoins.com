@@ -7,7 +7,7 @@ export function privacyPolicy() {
       <div class="container">
         <h1 class="page-title fade-in">Privacy Policy - Give in Coins</h1>
         <div class="policy-content fade-in delay-1">
-          <p class="last-updated"><strong>Version 1.1 &ndash; Last updated:</strong> May 5, 2025</p>
+          <p class="last-updated"><strong>Version 1.2 &ndash; Last updated:</strong> May 22, 2025</p>
           <p class="data-controller"><strong>Data Controller:</strong> Sangue Dev (CNPJ 50.556.215/0001-61)</p>
 
           <p>Give in Coins values the privacy of its users and operates transparently in handling personal data. This Privacy Policy describes how we collect, use, share, and protect your personal data, including during identity verification (KYC) and business verification (KYB) processes, in accordance with applicable laws and regulations.</p>
@@ -15,11 +15,11 @@ export function privacyPolicy() {
           <h2>1. Personal Data Collected</h2>
           <h3>1.1 Personal Identification Data</h3>
           <ul>
-            <li>Full name, identity document (ID card, driver’s license, passport), nationality, date of birth, address, selfie (proof of life)</li>
+            <li>Full name, identity document (RG, CNH, Passport), nationality, date of birth, address, selfie (proof of life)</li>
           </ul>
           <h3>1.2 Business Identification Data (KYB)</h3>
           <ul>
-            <li>Company name, registration number (e.g. CNPJ, EIN, VAT ID), articles of association or equivalent, legal representative and their ID, company address, institutional crypto-wallet address</li>
+            <li>Company name, registration number (e.g. CNPJ), articles of association or equivalent, legal representative and their CPF, company address, institutional crypto-wallet address</li>
           </ul>
           <h3>1.3 Technical Data</h3>
           <ul>
@@ -37,28 +37,15 @@ export function privacyPolicy() {
             <li>Perform audits, statistical analysis, and reporting</li>
           </ul>
 
-          <h2>3. Document Acceptance Policy (KYC/KYB)</h2>
+          <h2>3. Data Sharing</h2>
           <ul>
-            <li><strong>Languages Accepted Without Restriction:</strong> Portuguese, English, Spanish.</li>
-            <li><strong>Languages Requiring Official Translation or Third-Party Verification:</strong> Documents in other languages must be accompanied by a sworn translation into English or Portuguese. Examples include Arabic, Mandarin, Japanese, Korean, Russian, Hindi, Thai, Vietnamese, Greek, Hebrew, and other non-Latin alphabets.</li>
-            <li><strong>Restricted Jurisdictions:</strong> Documents issued by countries under international sanctions (e.g. North Korea, Iran, Syria), high-risk jurisdictions according to FATF/GAFI (e.g. Myanmar, South Sudan), or without a reliable issuing authority will not be accepted.</li>
-            <li><strong>Accepted Documents:</strong>
-              <ul>
-                <li><em>Individuals:</em> Passport, government-issued photo ID, driver’s license with readable data</li>
-                <li><em>Businesses:</em> Company registration document (CNPJ, EIN, VAT ID), articles of association or equivalent, proof of address, proof of institutional crypto-wallet ownership</li>
-              </ul>
-            </li>
-          </ul>
-
-          <h2>4. Data Sharing</h2>
-          <ul>
-            <li>On-ramp/off-ramp providers (Transak, Onramper, Bit2Me, and similar)</li>
+            <li>On-ramp providers (Transak, Onramper, Bit2Me, and similar)</li>
             <li>KYC/KYB and risk analysis partners</li>
             <li>Authorities and regulators, when required by law</li>
-            <li>Other third parties only when necessary for service provision or with explicit user consent</li>
+            <li>Other third parties only when necessary for service provision or <strong>with explicit user consent</strong></li>
           </ul>
 
-          <h2>5. Data Retention</h2>
+          <h2>4. Data Retention</h2>
           <ul>
             <li>Transaction and accounting data: retained for the period required by tax law (at least 5 years)</li>
             <li>Browsing and cookie data: retained as needed for specific purposes (up to 12 months unless longer retention is required)</li>
